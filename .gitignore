@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Секреты и ключи (КРИТИЧЕСКИ ВАЖНО) ---
+.env
+*.env
+
+# --- Базы данных и Докер ---
+data/
+postgres_data/
+timescaledb_data/
+
+# --- Большие датасеты (чтобы не забить GitHub) ---
+*.csv
+*.parquet
+*.json
+
+# --- Jupyter Notebook мусор ---
+.ipynb_checkpoints/
