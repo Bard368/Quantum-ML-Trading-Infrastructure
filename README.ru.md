@@ -2,6 +2,7 @@
   <a href="README.md"><img alt="English" src="https://img.shields.io/badge/English-d9d9d9?style=for-the-badge"></a>
   <a href="README.ru.md"><img alt="Русский" src="https://img.shields.io/badge/Русский-1f8fff?style=for-the-badge"></a>
 </div>
+
 # Quantum ML Trading Infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,6 +21,7 @@
 Проект представляет собой отказоустойчивую инфраструктуру для сбора сырых тиковых данных и глубины стакана (Orderbook) в реальном времени, с последующей трансформацией в институциональные метрики. 
 
 Система спроектирована для решения главной проблемы ML в алготрейдинге — зависимости моделей от запаздывающих индикаторов и отсутствия качественных данных лимитного давления. Инфраструктура полностью изолирована, разворачивается через Docker и работает в автономном режиме 24/7.
+
 
 ## ⚙️ Технологический стек и компоненты
 
