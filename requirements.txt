@@ -1,0 +1,13 @@
+aiohttp
+asyncpg
+ccxt
+fastapi
+python-dotenv
+uvicorn
+websockets>=12.0
+pandas>=2.0.0
+pandas-ta==0.4.71b0
+scipy
+statsmodels
+numpy
+pybit
