@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md"><img alt="English" src="https://img.shields.io/badge/English-d9d9d9?style=for-the-badge"></a>
+  <a href="README.ru.md"><img alt="Русский" src="https://img.shields.io/badge/Русский-1f8fff?style=for-the-badge"></a>
+</div>
 # Quantum ML Trading Infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white)
